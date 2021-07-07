@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="3492007542396725315" datatype="html">
+        <source>Welcome</source>
+        <target>Bienvenue</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">314</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="702273782248450975" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ title }}"/> app is running!</source>
+        <target><x id="INTERPOLATION" equiv-text="{{ title }}"/> app fonctionne!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">346</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2446117790692479672" datatype="html">
+        <source>Resources</source>
+        <target>Ressources</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">356</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4274046789977098738" datatype="html">
+        <source>Here are some links to help you get started:</source>
+        <target>Voici quelques lien pour vous aider à débuter:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">357</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4686588615295148276" datatype="html">
+        <source>Learn Angular</source>
+        <target>Apprendre Angular</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">363</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5474830355021798286" datatype="html">
+        <source>CLI Documentation</source>
+        <target>CLI Documentation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">370</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8792963811675156937" datatype="html">
+        <source>Angular Blog</source>
+        <target>Angular Blog</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">378</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2869948436884924902" datatype="html">
+        <source>Next Steps</source>
+        <target>Etapes suivantes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">386</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5363244516442434045" datatype="html">
+        <source>What do you want to do next with your app?</source>
+        <target>Que voulez vous faire ensuite ?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">387</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4104801088774801897" datatype="html">
+        <source>New Component</source>
+        <target>Nouveau Composant</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">395</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="575617949774434271" datatype="html">
+        <source>Angular Material</source>
+        <target>Angular Material</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">401</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3405454537683641096" datatype="html">
+        <source>Add PWA Support</source>
+        <target>Ajouter le support PWA</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">407</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7320369208583772821" datatype="html">
+        <source>Add Dependency</source>
+        <target>Ajouter une Dépendance</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">413</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="524939895445988958" datatype="html">
+        <source>Run and Watch Tests</source>
+        <target>Executer et Suivre les Tests</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">419</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4556682662449756686" datatype="html">
+        <source>Build for Production</source>
+        <target>Build pour la Production</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">425</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7018529823745499283" datatype="html">
+        <source> Love Angular?  <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/angular/angular&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/> Give our repo a star. <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div class=&quot;github-star-badge&quot;&gt;"/><x id="START_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;svg class=&quot;material-icons&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot;&gt;"/><x id="START_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="START_TAG__SVG_PATH_1" ctype="x-_svg_path_1" equiv-text="&lt;path d=&quot;M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z&quot;/&gt;"/><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="CLOSE_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;/svg&gt;"/> Star <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/angular/angular&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/><x id="START_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;svg class=&quot;material-icons&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot;&gt;"/><x id="START_TAG__SVG_PATH_2" ctype="x-_svg_path_2" equiv-text="&lt;path d=&quot;M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z&quot; fill=&quot;#1976d2&quot;/&gt;"/><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="START_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="CLOSE_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;/svg&gt;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target> Aimez-vous Angular?  <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/angular/angular&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/> Mettre notre repo en favoris. <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div class=&quot;github-star-badge&quot;&gt;"/><x id="START_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;svg class=&quot;material-icons&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot;&gt;"/><x id="START_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="START_TAG__SVG_PATH_1" ctype="x-_svg_path_1" equiv-text="&lt;path d=&quot;M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z&quot;/&gt;"/><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="CLOSE_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;/svg&gt;"/> Star <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/angular/angular&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;"/><x id="START_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;svg class=&quot;material-icons&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot;&gt;"/><x id="START_TAG__SVG_PATH_2" ctype="x-_svg_path_2" equiv-text="&lt;path d=&quot;M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z&quot; fill=&quot;#1976d2&quot;/&gt;"/><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="START_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;/&gt;"/><x id="CLOSE_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;/svg&gt;"/><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">493,502</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
